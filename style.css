@@ -29,6 +29,7 @@ a {
 }
 p {
     margin: 0.75rem 0;
+    text-align: left;
 }
 
 
@@ -67,10 +68,14 @@ p {
     - #fdf6f0
     - #333
 */
+.small-container {
+    margin-left:10px;
+}
 .title{
     margin-top: 50px;
     margin-bottom: 50px;
     text-align: center;
+    font-size: 3rem;
 }
 
 .we-text {
@@ -78,6 +83,12 @@ p {
 }
 #section{
     background-color:#fdf6f0;
+}
+
+.div1,
+.div2,
+.div3 {
+    margin-right:15px;
 }
 
 .div1{
